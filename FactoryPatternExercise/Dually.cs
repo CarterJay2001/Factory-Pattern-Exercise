@@ -8,7 +8,7 @@ namespace FactoryPatternExercise
         }
         public void Drive()
         {
-            Console.WriteLine("Dually is driving");
+            Console.WriteLine("Dually is driving\n");
         }
     }
 }

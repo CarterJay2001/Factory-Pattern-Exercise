@@ -8,7 +8,7 @@ namespace FactoryPatternExercise
         }
         public void Drive()
         {
-            Console.WriteLine("BigRig is driving");
+            Console.WriteLine("BigRig is driving\n");
         }
     }
 }

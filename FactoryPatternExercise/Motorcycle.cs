@@ -8,7 +8,7 @@ namespace FactoryPatternExercise
         }
         public void Drive()
         {
-            Console.WriteLine("Motorcycle is driving");
+            Console.WriteLine("Motorcycle is driving\n");
         }
     }
 }
